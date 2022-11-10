@@ -17,7 +17,7 @@ When using Our Application to provide features of Our Application, We may collec
 – Pictures from Your device's photo library  
 – Purchase history  
 – Other financial information  
-– Actions in the Application (choosing a theme in the Application, having a verified user account, account login status, user authentication value)  
+– Actions in the Application (choosing a theme in the Application, account login status, user authentication value)  
 – Other content (notes that You leave when adding an operation)  
 
 We use this information to provide features of Our App, to improve and customize Our Service.
@@ -56,7 +56,7 @@ MoneyNeko — это Приложение для Android, разработанн
 - Изображения из фототеки Вашего устройства
 - История покупки
 – Другая финансовая информация
-– Действия в Приложении (выбор темы в Приложении, наличие верифицированной учетной записи пользователя, статус входа в учетную запись, значения аутентификации пользователя)
+– Действия в Приложении (выбор темы в Приложении, статус входа в учетную запись, значения аутентификации пользователя)
 – Другой контент (примечания, которые вы оставляете при добавлении операции)
 
 Мы используем эту информацию, чтобы предоставлять функции Нашего Приложения, улучшать и настраивать его.
